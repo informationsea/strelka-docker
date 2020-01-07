@@ -1,6 +1,6 @@
 # strelka-docker
 
-strelka Docker Container based on Alpine Linux
+strelka Docker Container based
 
 * [GitHub](https://github.com/informationsea/strelka-docker)
 * [DockerHub](https://hub.docker.com/r/informationsea/strelka)
